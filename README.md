@@ -1,7 +1,7 @@
 # Portfolio
 DESCRIPTION
-[Portfolio] (#portfolio)
-[3] (#3)
+- [Portfolio] (#portfolio)
+- [3] (#3)
 a
 
 
